@@ -4,5 +4,7 @@
   "editor.formatOnPaste": true,
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 2
 }
