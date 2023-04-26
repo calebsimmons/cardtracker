@@ -1,8 +1,8 @@
 import React from "react";
 import logo from "./logo.svg";
-import { Counter } from "./features/counter/Counter";
+import { Counter } from "./components/counter/Counter";
 import "./App.css";
-import CardsearchAutocomplete from "./features/CardsearchAutocomplete/CardsearchAuctocomplete";
+import CardsearchAutocomplete from "./components/CardsearchAutocomplete/CardsearchAuctocomplete";
 
 function App() {
   return <CardsearchAutocomplete />;

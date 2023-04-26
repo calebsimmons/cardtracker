@@ -4,5 +4,14 @@
             "id": 1,
             "name": "Caleb"
         }
-    ]
+    ],
+    "cards": {
+        "autocomplete": [
+            "Gideon, Ally of Zendikar",
+            "Gideon, Hero of Ikorias",
+            "Gideon Jora",
+            "Gideon, the Black Blade",
+            "Gideon, Champion of Justice"
+        ]
+    }
 }
